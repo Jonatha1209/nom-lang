@@ -1,0 +1,5 @@
+[DEFAULT]
+default_file = "test.nom"
+prompt_color = "cyan"
+auto_save = true
+default_table = "users"
