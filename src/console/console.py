@@ -2,7 +2,7 @@ from prompt_toolkit import PromptSession
 from prompt_toolkit.completion import WordCompleter
 from prompt_toolkit.styles import Style
 import json
-from nom import NomFileManager
+from src.main import NomFileManager
 from nom_config import load_nomrc
 
 base_commands = [
