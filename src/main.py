@@ -1,4 +1,7 @@
-from functions.parse_nom import parse_nom
+import json
+import sys
+import os
+from core import *
 
 class NomFileManager:
     def __init__(self, filepath):
