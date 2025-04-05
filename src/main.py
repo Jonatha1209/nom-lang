@@ -1,4 +1,4 @@
-from parse_nom import parse_nom
+from functions.parse_nom import parse_nom
 
 class NomFileManager:
     def __init__(self, filepath):
