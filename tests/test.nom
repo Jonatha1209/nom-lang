@@ -1,0 +1,5 @@
+{
+  name : "Alice" -> string,
+  age : 29 -> integer,
+  nickname : "Ali" -> string,
+}
